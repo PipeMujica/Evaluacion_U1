@@ -1,0 +1,88 @@
+header{
+    color: whitesmoke;
+    background-color: lightblue;
+    text-align: center;
+    padding: 5px;
+    margin: 0px 500px 25px 500px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    text-align: center;
+
+}
+
+.image{
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 150px;
+    background-color: #F8F0E5;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.div1{
+    max-width: 700px;
+    margin: 5px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #F0F0F0;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    align-content: center;
+}
+    
+h2{
+    color: #071952;
+    text-align: center;
+}
+#nombre{
+    color: #009900;
+    font-family: comic sans ms;
+    font-size: 30px;
+    font-weight: bold;
+}
+h3{
+    color: #071952;
+    text-align: center;
+}
+p {
+    color: black;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+a:hover {
+    color: #E9B824;
+}
+
+nav li{
+    display: block;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.lista{
+    color: #E55604;
+    text-align: center;
+}
+
+#web{
+    font-family: Verdana;   
+}
+
+.footer {
+    color: whitesmoke;
+}
+
+footer {
+    background-color: lightblue ;
+    text-align: center;
+    padding: 5px;
+    margin: 50px 500px 0px 500px;
+}
